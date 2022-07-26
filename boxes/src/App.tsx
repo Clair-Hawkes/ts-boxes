@@ -1,16 +1,7 @@
 import BoxList from "./BoxList";
 
-//Props
-//State
-//Effects
-//Context
-//Events
-/**TODO: Docstring
- * Input: None
- * -Typing: NA
- * Output: HTMLELEMENT
- * -Typing: Not today!
-*/
+
+/** Renders box application. */
 function App() {
   return (
     <div>
